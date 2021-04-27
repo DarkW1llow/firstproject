@@ -1,10 +1,12 @@
 {
-    "name": "firstProject",
+    "name": "BalanceCar",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.7.3",
+        "firstProject": "github:darkw1llow/firstproject#2a94f257049e55b94a6196cb6ae4b0f6ab2398d8"
     },
     "files": [
         "main.blocks",
