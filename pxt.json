@@ -5,12 +5,13 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "firstProject": "github:darkw1llow/firstproject#2a94f257049e55b94a6196cb6ae4b0f6ab2398d8"
+        "microbit-GY521": "github:pauldfoster/pxt-microbit-gy521#v0.0.2"
     },
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "main.py"
     ],
     "testFiles": [
         "test.ts"
